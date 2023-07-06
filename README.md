@@ -1,5 +1,4 @@
   ## Hi, Blluettw here
-- 🌱 I’m currently learning C++, C#
 
 <div align="center">
   <a href="https://github.com/blluettw">
